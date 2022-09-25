@@ -1,10 +1,10 @@
 var config = {
 	debug: false,
 	database: {
-		host: "enter_db_host",
-		user: "enter_db_user",
-		password: "enter_db_pass",
-		database: "enter_db_name",
+		host: "sql703.main-hosting.eu",
+		user: "u672957758_whatssywhatssa",
+		password: "Vfxhacker9514789/",
+		database: "u672957758_whatssywhatssa",
 		charset : "utf8mb4"
 	},
 	cors: {
